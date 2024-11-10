@@ -8,6 +8,7 @@
 * Hobbies include piano🎹 & guitar🎸, language-learning🌍, dungeons & dragons🎲</br>
 
 ### Languages
+
 1. English · native · C2+
 2. Portuguese · conversational · B2
 3. Spanish · basic · A2
