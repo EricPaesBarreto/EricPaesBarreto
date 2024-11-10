@@ -42,4 +42,7 @@
 
 ## Social Media
 
-<img href = "https://www.linkedin.com/in/eric-barreto-aa9719241/" src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg"> <img href = "https://www.facebook.com/Eric.Pies.Burritos" src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg"> <img href = "https://www.instagram.com/EricPaesBarreto/" src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg"> <img href="https://x.com/ep_barreto" src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg">
+[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt = "linkedin">](https://www.linkedin.com/in/eric-barreto-aa9719241/)
+[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg" alt = "facebook">](https://www.facebook.com/Eric.Pies.Burritos)
+[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt = "instagram">](https://www.instagram.com/EricPaesBarreto/)
+[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg" alt = "twitter">](https://x.com/ep_barreto)
