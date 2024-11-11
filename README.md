@@ -21,7 +21,8 @@
 ![Python][py-badge]
 ![DotNet][dotnet-badge]</br>
 
-![Git][git-badge]![GitHub][github-badge]
+![Git][git-badge]
+![GitHub][github-badge]
 
 
 
