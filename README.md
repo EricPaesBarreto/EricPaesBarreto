@@ -46,8 +46,10 @@
 [![Facebook logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)][facebook-link]
 [![Instagram logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg)][instagram-link]
 [![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
+[![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]
 
 [linkedin-link]: (https://www.linkedin.com/in/eric-barreto-aa9719241/)
 [facebook-link]: (https://www.facebook.com/EricPaesBarreto/)
 [instagram-link]: (https://www.instagram.com/EricPaesBarreto/)
 [x-link]: (https://x.com/ep_barreto)
+[youtube-link]: (https://www.youtube.com/@ericbarreto7295)
