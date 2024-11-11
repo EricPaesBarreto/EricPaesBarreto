@@ -24,8 +24,6 @@
 ![Git][git-badge]
 ![GitHub][github-badge]
 
-
-
 ## Github Statistics
 
 [![Github statistics][github-stats]](https://github.com/EricPaesBarreto)
