@@ -42,7 +42,12 @@
 
 ## Social Media
 
-[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt = "linkedin">](https://www.linkedin.com/in/eric-barreto-aa9719241/)
-[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg" alt = "facebook">](https://www.facebook.com/Eric.Pies.Burritos)
-[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt = "instagram">](https://www.instagram.com/EricPaesBarreto/)
-[<img src = "https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg" alt = "twitter">](https://x.com/ep_barreto)
+[![Linkedin logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg)][linkedin-link]
+[![Facebook logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)][facebook-link]
+[![Instagram logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg)][instagram-link]
+[![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
+
+[linkedin-link]: (https://www.linkedin.com/in/eric-barreto-aa9719241/)
+[facebook-link]: (https://www.facebook.com/EricPaesBarreto/)
+[instagram-link]: (https://www.instagram.com/EricPaesBarreto/)
+[x-link]: (https://x.com/ep_barreto)
