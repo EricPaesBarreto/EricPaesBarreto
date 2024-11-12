@@ -7,13 +7,6 @@
 * Currently studying NumPy and Arabic in my free time.</br>
 * Hobbies include piano🎹 & guitar🎸, language-learning🌍, dungeons & dragons🎲</br>
 
-### Languages
-
-1. English · native · C2+
-2. Portuguese · conversational · B2
-3. Spanish · basic · A2
-4. Polish · basic · A1
-
 ## Technical Skills
 
 ![Unity][unity-badge]
