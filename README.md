@@ -4,7 +4,7 @@
 
 * Full-time computer science bachelors student at the Krakow University of Economics.</br>
 * Interested in software-development, data-science and machine learning.</br>
-* Currently studying NumPy and Arabic in my free time.</br>
+* Currently studying data-science and Arabic in my free time.</br>
 * Hobbies include piano🎹 & guitar🎸, language-learning🌍, dungeons & dragons🎲</br>
 
 ## Technical Skills
