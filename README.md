@@ -43,6 +43,6 @@
 
 [linkedin-link]: https://www.linkedin.com/in/eric-barreto-aa9719241/
 [facebook-link]: https://www.facebook.com/EricPaesBarreto/
-[instagram-link]: https://www.instagram.com/EricPaesBarreto/
+[instagram-link]: https://www.instagram.com/ericpaesbarreto/
 [x-link]: https://x.com/ep_barreto
-[youtube-link]: https://www.youtube.com/@ericbarreto7295
+[youtube-link]: https://www.youtube.com/@ericbarretopaes
