@@ -41,7 +41,7 @@
 [![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
 [![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]
 
-[linkedin-link]: https://www.linkedin.com/in/eric-barreto-aa9719241/
+[linkedin-link]: https://www.linkedin.com/in/eric-paes-barreto/
 [facebook-link]: https://www.facebook.com/EricPaesBarreto/
 [instagram-link]: https://www.instagram.com/ericpaesbarreto/
 [x-link]: https://x.com/ep_barreto
