@@ -40,7 +40,13 @@
 [![Instagram logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg)][instagram-link]
 [![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
 [![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]</br>
-Reach me at my <a href="mailto:ericpaesbarreto.researcher@outlook.com?subject=Hello%20Eric&body=I%20found%20your%20work%20on%20GitHub%20very%20interesting.">public email address</a>.
+<p>Reach me at my mail:</p>
+<ul>
+  <li><a href="mailto:ericpaesbarreto.researcher@outlook.com?subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A">Default Mail App</a></li>
+  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ericpaesbarreto.researcher@outlook.com&su=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A" target="_blank">Open in Gmail</a></li>
+  <li><a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=ericpaesbarreto.researcher@outlook.com&subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A" target="_blank">Open in Outlook.com</a></li>
+</ul>
+
 
 
 [linkedin-link]: https://www.linkedin.com/in/eric-paes-barreto/
