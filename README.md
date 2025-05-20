@@ -39,7 +39,9 @@
 [![Facebook logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)][facebook-link]
 [![Instagram logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg)][instagram-link]
 [![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
-[![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]
+[![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]</br>
+Reach me at my <a href="mailto:ericpaesbarreto.researcher@outlook.com?subject=Hello%20Eric&body=I%20found%20your%20work%20on%20GitHub%20very%20interesting.">public email address</a>.
+
 
 [linkedin-link]: https://www.linkedin.com/in/eric-paes-barreto/
 [facebook-link]: https://www.facebook.com/EricPaesBarreto/
