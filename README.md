@@ -44,7 +44,7 @@
 <ul>
   <li><a href="mailto:ericpaesbarreto.researcher@outlook.com?subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A">Default Mail App</a></li>
   <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ericpaesbarreto.researcher@outlook.com&su=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A" target="_blank">Open in Gmail</a></li>
-  <li><a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=ericpaesbarreto.researcher@outlook.com&subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A" target="_blank">Open in Outlook.com</a></li>
+  <li><a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=ericpaesbarreto.researcher@outlook.com&subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A" target="_blank">Open in Outlook</a></li>
 </ul>
 
 
