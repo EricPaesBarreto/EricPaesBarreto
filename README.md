@@ -15,12 +15,16 @@
 ![Python][py-badge]
 ![Flask][flask-badge]
 ![Numpy][numpy-badge]
-![Pandas][pandas-Badge]
-![Matplotlib][mlp-badge]
 </br>
 
 ![Git][git-badge]
 ![GitHub][github-badge]
+![VirtualBox][vbox-badge]
+
+### Learning:
+![Pandas][pandas-Badge]
+![Matplotlib][mlp-badge]
+![UB][uv-badge]
 
 ## Github Statistics
 
@@ -40,7 +44,9 @@
 
 [git-badge]: https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032
 [github-badge]: https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=181717
-
+[vbox-badge]: https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=2F61B4
+[uv-badge]: https://img.shields.io/badge/Tools-UV-informational?style=flat&logo=uv&color=DE5FE9
+</br>
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
 [github-streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=EricPaesBarreto&theme=ambient_gradient
