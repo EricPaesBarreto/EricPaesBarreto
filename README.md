@@ -11,8 +11,13 @@
 
 ![Unity][unity-badge]
 ![C#][cs-badge]
+![DotNet][dotnet-badge]
 ![Python][py-badge]
-![DotNet][dotnet-badge]</br>
+![Flask][flask-badge]
+![Numpy][numpy-badge]
+![Pandas][pandas-Badge]
+![Matplotlib][mlp-badge]
+</br>
 
 ![Git][git-badge]
 ![GitHub][github-badge]
@@ -23,12 +28,19 @@
 
 [![GitHub streak statistics][github-streak-stats]](https://github.com/EricPaesBarreto)
 
-[cs-badge]: https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=.net&color=512BD4
+[cs-badge]: https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=512BD4
 [py-badge]: https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB
 [unity-badge]: https://img.shields.io/badge/Gaming-Unity-informational?style=flat&logo=unity&color=FFFFFF
 [dotnet-badge]: https://img.shields.io/badge/Framework-DotNet-informational?style=flat&logo=.net&color=512BD4
+[flask-badge]: https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=3BABC3
+[numpy-badge]: https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&color=013243
+[pandas-Badge]: https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458
+[mlp-badge]: https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&color=88C46C
+</br>
+
 [git-badge]: https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032
 [github-badge]: https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=181717
+
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
 [github-streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=EricPaesBarreto&theme=ambient_gradient
