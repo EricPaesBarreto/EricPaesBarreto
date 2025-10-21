@@ -24,8 +24,14 @@
 #### Learning:
 ![Pandas][pandas-Badge]
 ![Matplotlib][mlp-badge]
+![Phaser][phaser-badge]
+![JavaScript][js-badge]
+
+#### Want to Learn:
+![UV][uv-badge]
 ![Django][django-badge]
-![UB][uv-badge]
+![C++][cpp-badge]
+![Java][java-badge]
 
 ## Github Statistics
 
@@ -50,7 +56,13 @@
 [pandas-Badge]: https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458
 [mlp-badge]: https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&color=88C46C
 [uv-badge]: https://img.shields.io/badge/Library-UV-informational?style=flat&logo=uv&color=DE5FE9
+[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
+[js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
+
+
 [django-badge]: https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20
+[cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
+[java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
 
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
