@@ -20,6 +20,7 @@
 ![Git][git-badge]
 ![GitHub][github-badge]
 ![VirtualBox][vbox-badge]
+![SQL Server Management Studio][ssms-badge]
 
 #### Learning:
 ![Pandas][pandas-Badge]
@@ -51,6 +52,7 @@
 [git-badge]: https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032
 [github-badge]: https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=181717
 [vbox-badge]: https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=2F61B4
+[ssms-badge]: https://img.shields.io/badge/Tools-SSMS-informational?style=flat&logo=ssms&color=0078D4
 
 
 [pandas-Badge]: https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458
