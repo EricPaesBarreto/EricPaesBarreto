@@ -21,6 +21,7 @@
 ![GitHub][github-badge]
 ![VirtualBox][vbox-badge]
 ![SQL Server Management Studio][ssms-badge]
+![MSSQL][mssql-badge]
 
 #### Learning:
 ![Pandas][pandas-Badge]
@@ -51,10 +52,11 @@
 [numpy-badge]: https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&color=013243
 
 
-[git-badge]: https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032
-[github-badge]: https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=181717
-[vbox-badge]: https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=2F61B4
-[ssms-badge]: https://img.shields.io/badge/Tools-SSMS-informational?style=flat&logo=ssms&color=0078D4
+[git-badge]: https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032
+[github-badge]: https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&color=181717
+[vbox-badge]: https://img.shields.io/badge/Tool-VirtualBox-informational?style=flat&logo=virtualbox&color=2F61B4
+[ssms-badge]: https://img.shields.io/badge/Tool-SSMS-informational?style=flat&logo=ssms&color=0078D4
+[mssql-badge]: https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=mssql&color=AD1D22
 
 
 [pandas-Badge]: https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458
