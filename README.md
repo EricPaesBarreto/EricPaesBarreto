@@ -36,6 +36,7 @@
 #### Want to Learn:
 ![C++][cpp-badge]
 ![Java][java-badge]
+![Docker][docker-badge]
 
 ## Github Statistics
 
@@ -70,6 +71,7 @@
 
 [cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
 [java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
+[docker-badge]: https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED
 
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
