@@ -30,6 +30,7 @@
 ![UV][uv-badge]
 ![Ruff][ruff-badge]
 ![Django][django-badge]
+![SQLite][sqlite-badge]
 
 #### Want to Learn:
 ![C++][cpp-badge]
@@ -63,6 +64,7 @@
 [phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
 [js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
 [django-badge]: https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20
+[sqlite-badge]: https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57
 
 [cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
 [java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
