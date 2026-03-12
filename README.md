@@ -47,7 +47,7 @@
 [![GitHub streak statistics][github-streak-stats]](https://github.com/EricPaesBarreto)
 
 
-[cs-badge]: https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=512BD4
+[cs-badge]: https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&color=512BD4
 [py-badge]: https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB
 [unity-badge]: https://img.shields.io/badge/Gaming-Unity-informational?style=flat&logo=unity&color=FFFFFF
 [dotnet-badge]: https://img.shields.io/badge/Framework-DotNet-informational?style=flat&logo=.net&color=512BD4
