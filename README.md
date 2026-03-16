@@ -15,6 +15,7 @@
 ![Python][py-badge]
 ![Flask][flask-badge]
 ![Numpy][numpy-badge]
+![R][r-badge]
 </br>
 
 ![Git][git-badge]
@@ -28,7 +29,6 @@
 ![Matplotlib][mlp-badge]
 ![Phaser][phaser-badge]
 ![JavaScript][js-badge]
-![R][r-badge]
 ![UV][uv-badge]
 ![Ruff][ruff-badge]
 ![Django][django-badge]
