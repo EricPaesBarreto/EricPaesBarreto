@@ -15,6 +15,7 @@
 ![Python][py-badge]
 ![Flask][flask-badge]
 ![Numpy][numpy-badge]
+![Pandas][pandas-Badge]
 ![R][r-badge]
 </br>
 
@@ -25,7 +26,6 @@
 ![MSSQL][mssql-badge]
 
 #### Learning:
-![Pandas][pandas-Badge]
 ![Matplotlib][mlp-badge]
 ![Phaser][phaser-badge]
 ![JavaScript][js-badge]
