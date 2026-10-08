@@ -16,6 +16,8 @@
 ![Flask][flask-badge]
 ![Numpy][numpy-badge]
 ![Pandas][pandas-Badge]
+![Matplotlib][mlp-badge]
+![UV][uv-badge]
 ![R][r-badge]
 </br>
 
@@ -26,19 +28,17 @@
 ![MSSQL][mssql-badge]
 
 #### Learning:
-![Matplotlib][mlp-badge]
 ![Phaser][phaser-badge]
 ![JavaScript][js-badge]
-![UV][uv-badge]
 ![Ruff][ruff-badge]
 ![Django][django-badge]
 ![SQLite][sqlite-badge]
 ![Discord.py][discordpy-badge]
+![Docker][docker-badge]
 
 #### Want to Learn:
 ![C++][cpp-badge]
 ![Java][java-badge]
-![Docker][docker-badge]
 
 ## Github Statistics
 
