@@ -28,9 +28,9 @@
 ![MSSQL][mssql-badge]
 
 #### Learning:
-![Phaser][phaser-badge]
 ![JavaScript][js-badge]
 ![TypeScript][ts-badge]
+![React][react-badge]
 ![Ruff][ruff-badge]
 ![Django][django-badge]
 ![SQLite][sqlite-badge]
@@ -69,15 +69,16 @@
 [mlp-badge]: https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&color=88C46C
 [uv-badge]: https://img.shields.io/badge/Library-UV-informational?style=flat&logo=uv&color=DE5FE9
 [ruff-badge]: https://img.shields.io/badge/Library-RUFF-informational?style=flat&logo=ruff&color=D7FF64
-[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
+# [phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
 [js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
-[ts-badge]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&color=3178C6
+[ts-badge]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6
+[react-badge]: https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB
 [r-badge]: https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&color=276DC3
 [django-badge]: https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20
 [sqlite-badge]: https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57
 [discordpy-badge]: https://img.shields.io/badge/Framework-Discord.py-informational?style=flat&logo=discord&color=5865F2
-[scrapy-badge]: https://img.shields.io/badge/Framework-Scrapy-informational?style=flat&logo=discord&color=60A839
-[selenium-badge]: https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=discord&color=43B02A
+[scrapy-badge]: https://img.shields.io/badge/Framework-Scrapy-informational?style=flat&logo=scrapy&color=60A839
+[selenium-badge]: https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&color=43B02A
 
 [cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
 [java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
