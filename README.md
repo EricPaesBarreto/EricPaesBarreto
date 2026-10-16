@@ -35,6 +35,8 @@
 ![SQLite][sqlite-badge]
 ![Discord.py][discordpy-badge]
 ![Docker][docker-badge]
+![Scrapy][scrapy-badge]
+![Selenium][selenium-badge]
 
 #### Want to Learn:
 ![C++][cpp-badge]
@@ -72,6 +74,8 @@
 [django-badge]: https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20
 [sqlite-badge]: https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57
 [discordpy-badge]: https://img.shields.io/badge/Framework-Discord.py-informational?style=flat&logo=discord&color=5865F2
+[scrapy-badge]: https://img.shields.io/badge/Framework-Scrapy-informational?style=flat&logo=discord&color=60A839
+[selenium-badge]: https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=discord&color=43B02A
 
 [cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
 [java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
