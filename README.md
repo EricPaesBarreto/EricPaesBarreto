@@ -86,8 +86,6 @@
 [docker-badge]: https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED
 
 
-%[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823%
-
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
 [github-streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=EricPaesBarreto&theme=ambient_gradient
 
