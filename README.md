@@ -69,7 +69,6 @@
 [mlp-badge]: https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&color=88C46C
 [uv-badge]: https://img.shields.io/badge/Library-UV-informational?style=flat&logo=uv&color=DE5FE9
 [ruff-badge]: https://img.shields.io/badge/Library-RUFF-informational?style=flat&logo=ruff&color=D7FF64
-#[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
 [js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
 [ts-badge]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6
 [react-badge]: https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB
@@ -79,11 +78,14 @@
 [discordpy-badge]: https://img.shields.io/badge/Framework-Discord.py-informational?style=flat&logo=discord&color=5865F2
 [scrapy-badge]: https://img.shields.io/badge/Framework-Scrapy-informational?style=flat&logo=scrapy&color=60A839
 [selenium-badge]: https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&color=43B02A
+[c-badge]: https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC
 
 [cpp-badge]: https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C
 [java-badge]: https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=00599C
 [docker-badge]: https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED
 
+
+%[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823%
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
 [github-streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=EricPaesBarreto&theme=ambient_gradient
