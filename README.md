@@ -30,6 +30,7 @@
 #### Learning:
 ![Phaser][phaser-badge]
 ![JavaScript][js-badge]
+![TypeScript][ts-badge]
 ![Ruff][ruff-badge]
 ![Django][django-badge]
 ![SQLite][sqlite-badge]
@@ -70,6 +71,7 @@
 [ruff-badge]: https://img.shields.io/badge/Library-RUFF-informational?style=flat&logo=ruff&color=D7FF64
 [phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
 [js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
+[ts-badge]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&color=3178C6
 [r-badge]: https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&color=276DC3
 [django-badge]: https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20
 [sqlite-badge]: https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57
