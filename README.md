@@ -38,6 +38,7 @@
 ![Docker][docker-badge]
 ![Scrapy][scrapy-badge]
 ![Selenium][selenium-badge]
+![C][c-badge]
 
 #### Want to Learn:
 ![C++][cpp-badge]
