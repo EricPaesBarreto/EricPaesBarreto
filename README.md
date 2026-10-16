@@ -69,7 +69,7 @@
 [mlp-badge]: https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&color=88C46C
 [uv-badge]: https://img.shields.io/badge/Library-UV-informational?style=flat&logo=uv&color=DE5FE9
 [ruff-badge]: https://img.shields.io/badge/Library-RUFF-informational?style=flat&logo=ruff&color=D7FF64
-# [phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
+#[phaser-badge]: https://img.shields.io/badge/Framework-Phaser-informational?style=flat&logo=phaser&color=1f0823
 [js-badge]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E
 [ts-badge]: https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6
 [react-badge]: https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB
