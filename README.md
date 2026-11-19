@@ -89,7 +89,7 @@
 [github-stats]: https://github-readme-stats.vercel.app/api?username=EricPaesBarreto&theme=ambient_gradient
 [github-streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=EricPaesBarreto&theme=ambient_gradient
 
-## Social Media
+## Contact
 
 [![Linkedin logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg)][linkedin-link]
 <p>Reach me at my mail:</p>
