@@ -92,10 +92,6 @@
 ## Social Media
 
 [![Linkedin logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg)][linkedin-link]
-[![Facebook logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/facebook.svg)][facebook-link]
-[![Instagram logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg)][instagram-link]
-[![X logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg)][x-link]
-[![Youtube logo](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg)][youtube-link]</br>
 <p>Reach me at my mail:</p>
 <ul>
   <li><a href="mailto:ericpaesbarreto.researcher@outlook.com?subject=Hello%20Eric&body=Dear%20Eric%20Barreto%2C%0A%0A">Default Mail App</a></li>
